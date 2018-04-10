@@ -1,0 +1,942 @@
+cause_of_death, count
+cancer ,754
+heart attack ,531
+lung cancer ,187
+traffic collis ,133
+heart failur ,132
+pancreat cancer ,129
+shot ,113
+stroke ,87
+after long ill ,78
+cardiac arrest ,77
+brain cancer ,69
+prostat cancer ,66
+pneumonia ,62
+liver cancer ,61
+leukemia ,60
+natur caus ,56
+car accid ,54
+breast cancer ,53
+suicid ,48
+stomach cancer ,46
+plane crash ,38
+suicid by gunshot ,37
+colon cancer ,36
+throat cancer ,32
+drown ,31
+kidney failur ,31
+alzheimer' diseas ,30
+amyotroph later sclerosi ,30
+complic from a stroke ,29
+suicid by hang ,27
+fall ,26
+esophag cancer ,26
+lymphoma ,25
+colorect cancer ,24
+heart diseas ,24
+brain tumor ,23
+multipl organ failur ,21
+pulmonari embol ,21
+multipl myeloma ,20
+euthan ,20
+brain tumour ,19
+ovarian cancer ,19
+diabet ,19
+helicopt crash ,19
+parkinson' diseas ,19
+respiratori failur ,18
+after short ill ,18
+stab ,17
+melanoma ,17
+brain aneurysm ,16
+suspect heart attack ,16
+bladder cancer ,16
+appar heart attack ,16
+complic from surgeri ,16
+emphysema ,15
+suicid by jump ,14
+motor neuron diseas ,14
+car crash ,14
+liver failur ,13
+cerebr hemorrhag ,13
+complic from diabet ,12
+complic from pneumonia ,11
+mesothelioma ,11
+brain hemorrhag ,10
+bone cancer ,10
+pulmonari fibrosi ,10
+leukaemia ,9
+myocardi infarct ,9
+motorcycl accid ,9
+drug overdos ,8
+renal failur ,8
+blood clot ,8
+skin cancer ,7
+bile duct cancer ,7
+kidney cancer ,7
+complic from a heart attack ,7
+U ,6
+dementia ,6
+lung diseas ,6
+shoot ,6
+cervic cancer ,6
+road accid ,6
+complic from alzheimer' diseas ,6
+liver diseas ,6
+complic from parkinson' diseas ,5
+kidney diseas ,5
+sepsi ,5
+aneurysm ,5
+accident drug overdos ,5
+complic of diabet ,5
+complic from leukemia ,5
+appar suicid by gunshot ,5
+chronic obstruct pulmonari diseas ,5
+murder ,5
+ill ,5
+complic of a stroke ,5
+behead ,5
+aortic dissect ,5
+complic from a fall ,5
+lung infect ,5
+at the wayback machin ,5
+complic of parkinson' diseas ,5
+injuri from a fall ,5
+head injuri ,5
+appar suicid ,5
+airstrik ,5
+hit by train ,5
+complic from heart surgeri ,5
+bowel cancer ,5
+non-hodgkin lymphoma ,5
+suspect suicid ,4
+complic from stroke ,4
+member of the U ,4
+complic from dementia ,4
+execut by hang ,4
+renal cancer ,4
+euthanis ,4
+heart condit ,4
+brain haemorrhag ,4
+myelodysplast syndrom ,4
+complic from heart attack ,4
+endometri cancer ,4
+acut myeloid leukemia ,4
+race collis ,4
+appar suicid by hang ,4
+creutzfeldt‰ûòjakob diseas ,4
+injuri sustain in a traffic collis ,3
+respiratori diseas ,3
+laryng cancer ,3
+hodgkin' lymphoma ,3
+complic from prostat cancer ,3
+amyloidosi ,3
+blood infect ,3
+strangl ,3
+respiratori infect ,3
+metastat melanoma ,3
+suspect suicid by hang ,3
+complic follow heart surgeri ,3
+respiratori ill ,3
+complic from multipl sclerosi ,3
+heart and kidney failur ,3
+bomb ,3
+asthma attack ,3
+ruptur aorta ,3
+heroin overdos ,3
+blood cancer ,3
+traffic accid ,3
+complic follow a stroke ,3
+infect ,3
+complic from cancer ,3
+complic of lung cancer ,3
+avalanch ,3
+complic of heart surgeri ,3
+uterin cancer ,3
+spinal cancer ,3
+complic from melanoma ,3
+head and neck cancer ,3
+oesophag cancer ,3
+pick' diseas ,3
+motorcycl collis ,3
+heart problem ,3
+gastric cancer ,3
+idiopath pulmonari fibrosi ,3
+aortic aneurysm ,3
+pancreat ,3
+beaten ,3
+multipl sclerosi ,3
+cerebr infarct ,3
+septic shock ,3
+complic of pneumonia ,3
+adren cancer ,2
+al ,2
+colic ,2
+cirrhosi ,2
+anaphylaxi ,2
+hypertens heart diseas ,2
+suicid by train ,2
+mountain accid ,2
+bone marrow cancer ,2
+abdomin cancer ,2
+nasopharynx cancer ,2
+liver and kidney failur ,2
+heat stroke ,2
+pulmonari edema ,2
+malaria ,2
+staph infect ,2
+people' artist of the ussr ,2
+thyroid cancer ,2
+complic from back surgeri ,2
+homicid ,2
+suffoc ,2
+injuri sustain in a fall ,2
+throat and liver cancer ,2
+aau Mr ,2
+mortar attack ,2
+explos ,2
+suicid bomb ,2
+liposarcoma ,2
+kidney ailment ,2
+complic follow surgeri ,2
+suicid by drug overdos ,2
+heart ill ,2
+pulmonari diseas ,2
+complic after heart surgeri ,2
+complic from brain surgeri ,2
+shot by polic ,2
+complic from multipl myeloma ,2
+olymp silver ,2
+director ,2
+multipl organ dysfunct syndrom ,2
+leiomyosarcoma ,2
+acut pancreat ,2
+hypertens ,2
+suspect heart failur ,2
+glioblastoma multiform ,2
+multipl system atrophi ,2
+complic from emphysema ,2
+bomb blast ,2
+cerebr haemorrhag ,2
+lymphat cancer ,2
+complic of cancer ,2
+governor of the bank of the lao P ,2
+long ill ,2
+ ,2
+salivari gland cancer ,2
+and director ,2
+respiratori ailment ,2
+suspect drug overdos ,2
+blunt forc trauma ,2
+metastat breast cancer ,2
+suspect suicid by gunshot ,2
+vascul ,2
+accident prescript drug overdos ,2
+gallbladd cancer ,2
+thrombu ,2
+after a long ill ,2
+intracrani hemorrhag ,2
+cardiopulmonari diseas ,2
+pneumonia and heart failur ,2
+suicid by self-defenestr ,2
+respiratori arrest ,2
+ruptur aneurysm ,2
+follow a long ill ,2
+anal cancer ,2
+tractor accid ,2
+bicycl accid ,2
+struck by train ,2
+mix drug intox ,2
+complic from lung cancer ,2
+member ,2
+olymp bronz medalist ,2
+organ failur ,2
+diabet attack ,1
+lung and bone cancer ,1
+stage director and revu artist ,1
+suicid by defenestr ,1
+accident fentanyl and morphin overdos ,1
+order kal 007 to be shot down ,1
+cardiopulmonari arrest ,1
+cerebr embol ,1
+complic from parkinson diseas ,1
+drive-bi shoot ,1
+suspect heat exhaust ,1
+father of 49er coach mike nolan ,1
+journalist ,1
+osteosarcoma ,1
+pancreat neuroendocrin tumor ,1
+beat and stab ,1
+mvp of the 1963 rose bowl ,1
+philanthropist and social worker ,1
+1998 olymp gold medalist ,1
+head trauma ,1
+cardiac arrest result in fall ,1
+member of the european parliament and the riksdag ,1
+accident fall ,1
+produc and director ,1
+copd and dementia ,1
+diabet ketoacidosi ,1
+blunt forc neck injuri from race collis ,1
+benign brain tumor ,1
+complic from a ruptur brain aneurysm ,1
+complic follow a heart attack ,1
+multipl drug intox ,1
+post-op multipl cerebr infarct ,1
+complic from hepatocellular carcinoma ,1
+head injuri from boat propel ,1
+founder of momo ,1
+hit by car ,1
+complic dure heart surgeri ,1
+inform in georg ryan corrupt case ,1
+complic from staphylococc infect ,1
+founder of reviv basebal in inner citi ,1
+complic from lou gehrig' diseas ,1
+carbon monoxid asphyxi ,1
+boat collis ,1
+after brief ill ,1
+mna ,1
+acut pulmonari oedema ,1
+complic from a kidney tumour ,1
+complic from respiratori failur ,1
+heart and lung failur ,1
+auto accid ,1
+militari strike ,1
+stroke and heart attack ,1
+complic after open heart surgeri ,1
+postop complic ,1
+intern bleed and liver failur ,1
+probabl pulmonari embol ,1
+massiv brain hemorrhag ,1
+complic from gall bladder cancer ,1
+convict sex offend ,1
+complic from colon and bowel cancer ,1
+post-foal complic ,1
+skin infect ,1
+recipi of the magnesia litera award ,1
+first femal chief whip of the nation council of provinc ,1
+silver ,1
+owner of huey' restaur ,1
+gastrointestin bleed ,1
+pneumonia and kidney failur ,1
+complic from neurosurgeri ,1
+complic of shoot ,1
+embol ,1
+ski accid ,1
+complic of kidney failur ,1
+miss sinc 2012 ,1
+complic from lyme diseas and al ,1
+egot winner ,1
+execut by flamethrow ,1
+complic from liver cancer ,1
+sinu cancer ,1
+kidney complic from cancer ,1
+owner of woodburi ski area ,1
+injuri sustain in an explos ,1
+esophag and stomach cancer ,1
+scooter accid ,1
+cardiac arrest after heart ailment ,1
+progeria ,1
+paralymp gold medalist ,1
+crohn' diseas ,1
+complic from esophag cancer and pneumonia ,1
+malign brain tumour ,1
+neuroendocrin carcinoma ,1
+complic of a stroke and diabet ,1
+heart attack dure surgeri ,1
+anaemia ,1
+nosocomi infect ,1
+yacht capsiz ,1
+complic of malaria ,1
+complic from aortic surgeri ,1
+pulmonari failur as a complic of diabet ,1
+traumat dementia encephalophathi ,1
+script writer and director ,1
+struck by motorcycl ,1
+isi hostag ,1
+injuri sustain in traffic collis ,1
+complic dure liver transplant surgeri ,1
+respiratori complic ,1
+and comic author ,1
+erot asphyxi ,1
+short ill ,1
+engin for digit equip ,1
+shell ,1
+infect after heart surgeri ,1
+injuri sustain from beat ,1
+kidney failur associ with colon cancer ,1
+strangul ,1
+cancer of the jaw ,1
+namesak of the zabeel classic ,1
+arrang and televis person ,1
+complic from lung surgeri ,1
+cardiac arrest follow ski accid ,1
+adrenocort carcinoma ,1
+complic after a fall ,1
+complic from heatstrok and exhaust ,1
+liver cirrhosi ,1
+chronic lymphocyt leukemia ,1
+cardiopathi ,1
+complic dure foal ,1
+1968 olymp silver and bronz medalist ,1
+complic of cardiac surgeri ,1
+accident gunshot ,1
+suspect embol ,1
+record produc and musician ,1
+superintend of the U ,1
+aneurysm and heart attack ,1
+ruptur blood clot ,1
+execut by lethal inject ,1
+presid of the suprem court ,1
+mantl cell lymphoma ,1
+blood diseas ,1
+cardiovascular diseas ,1
+member of the cdu and landtag of north rhine-westphalia ,1
+possibl suicid ,1
+heroin and alcohol overdos ,1
+founder of epictim ,1
+complic from collaps lung ,1
+complic from colon cancer ,1
+chief first nation negoti dure 1992 land reform ,1
+complic after spleen surgeri ,1
+complic from anemia ,1
+blunt forc head trauma ,1
+lupu ,1
+first canadian to get a full scholarship to ncaa school for basketbal ,1
+lung ailment ,1
+oral cancer ,1
+complic from pregnanc ,1
+collaps lung and heart attack ,1
+lymphoid leukemia ,1
+blood poison ,1
+music produc and radio host ,1
+lung and throat cancer ,1
+screenwrit and director ,1
+injuri from a traffic collis ,1
+planetarium director ,1
+fall from a tree ,1
+1956 and 1964 olymp champion ,1
+slurri tank ga poison ,1
+challeng virginia interraci marriag law ,1
+cardiovascular complic ,1
+victim of the 2006 new york citi plane crash ,1
+metastat eye cancer ,1
+miss presum drown ,1
+horserid fall ,1
+alzheimer' diseas and pneumonia ,1
+accident overdos of fentanyl ,1
+respiratori insuffici ,1
+cervic fractur ,1
+carbon monoxid poison ,1
+ard ,1
+pulmonari infect ,1
+breast cancer and multipl sclerosi ,1
+thrombosi ,1
+chairman of york citi F ,1
+myocardi ischemia ,1
+overdos ,1
+complic of a seizur ,1
+earthquak ,1
+complic from liver failur ,1
+literari critic and publicist ,1
+suspect cardiac arrest ,1
+in hi sleep ,1
+duoden cancer ,1
+neuropathi ,1
+complic from lyme diseas ,1
+complic of liver and kidney failur ,1
+liver complic ,1
+alpha 1-antitrypsin defici ,1
+complic of surgeri ,1
+lou gehrig' diseas ,1
+epidur hematoma ,1
+leader of democrat fellowship of vojvodina hungarian ,1
+burst heart valv ,1
+cholangiocarcinoma ,1
+accident drown ,1
+journalist and writer ,1
+complic follow heart attack ,1
+hypothermia ,1
+carcinoid cancer ,1
+member of the sejm for ì_d¼ ,1
+typhoid fever ,1
+and model ,1
+fall from boat ,1
+euthan follow adren diseas and hoof inflamm ,1
+complic of brain tumor ,1
+suicid by wrist cut ,1
+1964 olymp bronz medal winner ,1
+produc and DJ ,1
+complic from cancer and chest infect ,1
+hajj stamped ,1
+head injuri from projectil ,1
+automobil accid ,1
+complic from a wasp sting ,1
+pioneer in human-robot interact ,1
+1981 rooki of the year ,1
+chest infect ,1
+execut by fire squad ,1
+thymu cancer ,1
+complic from bladder cancer ,1
+influenza ,1
+complic from hip surgeri ,1
+blunt forc trauma after fall from vehicl ,1
+complic from brain hemorrhag ,1
+cancer and pulmonari hemorrhag ,1
+complic from knee replac surgeri ,1
+co-creat of inspector gadget ,1
+stroke and heart failur ,1
+hypertens crisi ,1
+complic from respiratori difficulti ,1
+endocard ,1
+bilater pneumonia ,1
+recipi of the order of tomìáá garrigu masaryk ,1
+injuri sustain from bout ,1
+writer and actor ,1
+pulmonari failur ,1
+accident suffoc ,1
+lung and liver cancer ,1
+complic of a bone marrow transplant ,1
+complic from al ,1
+complic of kidney diseas ,1
+pre-exist heart condit ,1
+duoden ulcer hemorrhag ,1
+complic of diabet coma ,1
+plasmacytoma ,1
+self-defenestr ,1
+televis and radio sport journalist ,1
+uremia ,1
+cardiac amyloidosi ,1
+copd ,1
+mayor of haarlemmerm ,1
+complic from throat cancer ,1
+guillain‰ûòbarrì© syndrom ,1
+tornado injuri ,1
+accident drug and alcohol overdos ,1
+opiat intox ,1
+race accid ,1
+head injuri sustain in a traffic collis ,1
+acut heart failur ,1
+head injuri after fall from a vehicl ,1
+tase ,1
+acut respiratori failur ,1
+fall from atv ,1
+complic from pancreat cancer ,1
+lion attack ,1
+complic of neck injuri dure game ,1
+wife of lech kaczyãski ,1
+appar seizur ,1
+diabetes-rel stroke ,1
+blunt forc trauma while ski ,1
+complic from a brain haemorrhag ,1
+execut ,1
+complic from brain tumor ,1
+malign brain tumor ,1
+heart failur and copd ,1
+euthan after race injuri ,1
+parachut accid ,1
+appendix cancer ,1
+complic from stomach ailment ,1
+ischem heart diseas ,1
+accident heroin overdos ,1
+attack by a bull ,1
+complic from chronic fatigu syndrom and brain infect ,1
+complic from cancer and diabet ,1
+pneumonia as a complic from a stroke ,1
+survivor of the jamaat al muslimeen coup attempt ,1
+daughter of paul lì¦winger ,1
+dilat cardiomyopathi ,1
+complic from kidney diseas ,1
+arn treholt' defend ,1
+suicid by alcohol and drug overdos ,1
+suicid by autodefenestr ,1
+first pacif island anglican bishop ,1
+lord mayor of dublin ,1
+sickle-cel diseas ,1
+son of jerri goldsmith ,1
+member of the naismith hall of fame and fiba hall of fame ,1
+cardiorespiratori arrest ,1
+survivor of munich air disast ,1
+command of al-nusra front ,1
+air strike ,1
+physician-assist suicid ,1
+acut propofol intox ,1
+diabet and heart complic ,1
+bobsleigh collis ,1
+infect from bone marrow transplant ,1
+progeria-rel heart failur ,1
+complic from pneumonia and multipl sclerosi ,1
+heart ailment ,1
+bronchial pneumonia ,1
+appar drug overdos ,1
+ischaem heart diseas ,1
+1975) gold medalist ,1
+respiratori distress ,1
+smoke inhal ,1
+injuri from bu crash ,1
+son of konstantin chernenko ,1
+bleed from lacer ,1
+complic after surgeri ,1
+acut pneumonia ,1
+fall from a build ,1
+suicid by asphyxi ,1
+chronic leukemia ,1
+cutan b-cell lymphoma ,1
+complic from atv accid ,1
+roadsid bomb ,1
+streptococc infect ,1
+suicid by helium inhal ,1
+journalist and soviet dissid ,1
+complic from a brain injuri ,1
+chairman of fenerbahì¤ S ,1
+complic from diabet and bladder cancer ,1
+former presid of the senat and minist of state ,1
+drone strike ,1
+sleep apnea and accident overdos ,1
+complic from pulmonari diseas ,1
+cardiomegali complic ,1
+injuri from fall ,1
+complic after traffic collis ,1
+ruptur aortic aneurysm ,1
+viral myocard ,1
+hemorrhag ,1
+world and olymp champion ,1
+co-writ ,1
+race crash ,1
+complic of cancer and stroke ,1
+leader of the tdp ,1
+after an ill ,1
+jump accid ,1
+pneumonia and diabet ,1
+asthma ,1
+first nativ american bishop ,1
+accident overdos of alcohol and oxycodon ,1
+septicaemia ,1
+bomb attack ,1
+compos and lyricist ,1
+complic of leukemia ,1
+founder of La familia michoacana ,1
+MP for mbooni ,1
+chairman of pricelin ,1
+assault ,1
+mening ,1
+heart attack dure train ,1
+post-surgeri haemorrhag ,1
+aneur ,1
+bicycl collis ,1
+complic from kidney transplant ,1
+bu accid ,1
+discov rimantadin ,1
+throat and neck cancer ,1
+neuroendocrin cancer ,1
+founder of the adelaid review ,1
+train collis ,1
+complic of arthrit diseas ,1
+coronari thrombosi ,1
+member of 1992 america' cup win team ,1
+fish accid ,1
+suicid by gunshot to head ,1
+fall from build ,1
+morgan freeman and darth vader ,1
+complic from pulmonari emphysema ,1
+injuri sustain in a jetboat accid ,1
+breast cancer and heart failur ,1
+suicid by poison ,1
+complic from myelodysplast syndrom ,1
+cancer periton ,1
+polyneur melaminosa and hcv ,1
+renal and spinal cancer ,1
+hepatocellular carcinoma ,1
+fall from balconi ,1
+radio host and letter editor ,1
+bronz medalist at the 1974 fiba world championship ,1
+shot and stab ,1
+suicid by stand in front of a train ,1
+air crash ,1
+ceo of brighton & hove albion ,1
+sequela from hip fractur ,1
+ambassador to switzerland and liechtenstein ,1
+complic from ovarian cancer ,1
+complic from amyloidosi ,1
+complic of gallbladd surgeri ,1
+music manag ,1
+presid ,1
+anemia ,1
+complic from lung diseas ,1
+presid of the chichest festiv theatr ,1
+truck crash ,1
+angiosarcoma ,1
+chronic kidney diseas ,1
+1964 olymp gold medalist ,1
+metastat colon cancer ,1
+complic of influenza and pneumonia ,1
+post-polio syndrom ,1
+ovarian and colon cancer ,1
+idiopath ischem lung diseas ,1
+complic from a brain tumor ,1
+accident shoot ,1
+assist suicid ,1
+blunt traumat asphyxia ,1
+malign hypertens lead to kidney failur ,1
+suicid by jump from bridg ,1
+member of the ohio hous of repres ,1
+diabet and alzheimer' diseas ,1
+parkinson' diseas and liver tumor ,1
+cystic growth on the brain ,1
+appar drown ,1
+owner ,1
+murder by strangul ,1
+small cell lung carcinoma ,1
+complic from aortic dissect ,1
+winner of the 1994 grand nation ,1
+first chairman of the vietnam veteran memori fund ,1
+fell under train ,1
+complic of lung surgeri ,1
+present and politician ,1
+arrhythmogen right ventricular dysplasia ,1
+complic from drug abus ,1
+director and actor ,1
+militari band conductor ,1
+complic from a long ill ,1
+injuri sustain in a plane crash ,1
+infect endocard ,1
+cancer and cardiac disord ,1
+smoke inhal dure U ,1
+and music execut ,1
+complic follow traffic collis ,1
+car bomb ,1
+stunt collis ,1
+diabet and kidney diseas ,1
+mountain and expedit leader ,1
+assassin ,1
+presid of St ,1
+munich air disast survivor ,1
+heart complic ,1
+missil attack ,1
+ruptur intestin ,1
+hall of famer ,1
+brain damag ,1
+cystic fibrosi ,1
+ambassador to franc and unit state ,1
+bronchiti ,1
+glioblastoma ,1
+complic of high blood pressur ,1
+olymp bronz ,1
+follow a short ill ,1
+founder of geffen playhous ,1
+renal and heart failur ,1
+suspect malaria ,1
+group A streptococc infect ,1
+testicular cancer ,1
+cardiac arrest follow a heart attack ,1
+russian left wing ,1
+common cold ,1
+three-term member of the arizona hous of repres ,1
+brain trauma ,1
+deputi head of minustah ,1
+complic relat to a stroke ,1
+liver and kidney diseas ,1
+complic follow intestin surgeri ,1
+burn from helicopt crash ,1
+iron overload ,1
+accident combin drug intox ,1
+appar heart failur ,1
+complic from cardiac surgeri ,1
+winner of the 1986 prix de psychì© and prix vermeil ,1
+stroke complic ,1
+post-surgeri complic ,1
+1990 world junior champion ,1
+arteriosclerosi ,1
+non-hodgkin' lymphoma ,1
+faroes literatur prize recipi ,1
+pancreat and liver cancer ,1
+amniot fluid embol ,1
+stroke follow a fall ,1
+bleed from stomach ulcer ,1
+ambassador to franc and switzerland ,1
+atv accid ,1
+bechterew' diseas ,1
+1955 world seri mvp ,1
+complic of emphysema ,1
+singer and varieti artist ,1
+co-found of rogu ale ,1
+complic from fall ,1
+cardiac arrest follow car accid ,1
+head injuri from fall ,1
+complic from brain cancer ,1
+from injuri sustain in a bike accid ,1
+blood disord ,1
+acut erythroid leukaemia ,1
+mediastinum cancer ,1
+complic from stomach surgeri ,1
+complic of hepat C ,1
+fbi most want terrorist ,1
+choke ,1
+multipl myeloma and blood cancer ,1
+seizur ,1
+essayist and historian ,1
+renal diseas ,1
+after a short ill ,1
+septic infect ,1
+euthan due to lymphoma ,1
+arvc ,1
+pulmonari oedema ,1
+dementia and parkinson' diseas ,1
+ampullari cancer ,1
+injuri follow assault ,1
+cardiac arrest and arrhythmia ,1
+bronchiectasi ,1
+co-creat of wolverin ,1
+four-tim mayor of san jose del mont ,1
+decapit ,1
+complic of a heart attack ,1
+cerebrovascular diseas ,1
+convict of war crime and crime against human dure the civil war ,1
+poem syndrom ,1
+accident cocain overdos ,1
+stroke as a complic of an aortic aneurysm ,1
+edema ,1
+adenoid cystic carcinoma ,1
+spinal injuri from traffic collis ,1
+liga I top scorer in 1964 ,1
+musicologist and radio present ,1
+cardiovascular attack ,1
+injuri dure home invas ,1
+idiopath epilepsi seizur ,1
+complic from malaria ,1
+accident overdos of hydrocodon and morphin ,1
+actor ,1
+complic of colorect cancer ,1
+progress supranuclear palsi ,1
+shot dure manila hostag crisi ,1
+complic from a traffic collis ,1
+hepat A ,1
+brain and sinu cancer ,1
+swine flu ,1
+stomach aneurysm ,1
+epilept seizur ,1
+coccidiosi ,1
+MP for charlevoix ,1
+convict of conspiraci to murder and firearm possess ,1
+degen brain diseas ,1
+intestin cancer ,1
+kidney and liver failur ,1
+i explos ,1
+traumat aortic ruptur ,1
+heart failur and brain hemorrhag ,1
+winner of the 1965‰ûò66 european cup ,1
+colon and lung cancer ,1
+recipi of the J ,1
+accident alcohol poison ,1
+tongu cancer ,1
+complic of car accid ,1
+thymic cancer ,1
+complic from copd ,1
+chairman of arm hold ,1
+farm accid ,1
+whistleblow of the 2011 phone hack scandal ,1
+coronari embol ,1
+myelofibrosi ,1
+chronic pulmonari diseas ,1
+1968 olymp gold medalist ,1
+improvis explos devic ,1
+complic dure surgeri ,1
+accident asphyxi ,1
+metropolitan of vyatka-slobodskoy ,1
+blood cancer and renal failur ,1
+suicid by drown ,1
+olymp ,1
+complic of pulmonari emphysema ,1
+heart failur and emphysema ,1
+blood clot after heart surgeri ,1
+complic from a heart procedur ,1
+Mr ,1
+brain aneur ,1
+sleep apnea ,1
+stroke from vertebr arteri dissect ,1
+fall tree ,1
+canadian broadcast corpor ,1
+lewi bodi dementia ,1
+hit-and-run ,1
+viral pneumonia ,1
+cerebr contus ,1
+pulmonari arrest ,1
+develop of the C program languag and the unix oper system ,1
+spinal cord injuri ,1
+stingray barb to the chest ,1
+leptospirosi ,1
+complic from a blood clot disord ,1
+silver medalist in the 200m at the 1952 olymp ,1
+politician and scholar ,1
+gastrointestin hemorrhag ,1
+head trauma from treadmil fall ,1
+complic of vascular diseas ,1
+boat accid ,1
+complic of pneumonia from leukemia ,1
+complic from prostat surgeri ,1
+coronari heart diseas ,1
+intern haemorrhag ,1
+homicid by gunshot ,1
+fall from roof ,1
+pulmonari aspir ,1
+hemorrhag brain stroke ,1
+complic of pancreat ,1
+cerebr aneurysm ,1
+haitian hip hop musician ,1
+complic from motor neuron diseas ,1
+accident medic overdos ,1
+stroke relat to acut myelogen leukemia ,1
+cardiac arrest as a complic from cancer ,1
+ambassador to azerbaijan ,1
+complic from marfan syndrom ,1
+complic from brain and lung cancer ,1
+heart and respiratori complic ,1
+hypotens ,1
+california ,1
+cancer and stroke ,1
+complic of diabet and stroke ,1
+complic from an infect ,1
+struck by fall tree ,1
+euthanis follow paddock accid ,1
+ventricular fibril ,1
+complic from breast cancer ,1
+complic from ischem stroke ,1
+respiratori problem ,1
+train crash ,1
+vehicular hit-and-run ,1
+myeloid leukemia ,1
+complic of a heart defect ,1
+sarcoidosi ,1
+heart infect ,1
+complic of pneumonia from surgeri ,1
+complic of alzheimer' diseas ,1
+posterior cortic atrophi ,1
+pneumonia as a complic of multipl myeloma ,1
+bludgeon ,1
+frontal lobe dementia ,1
+digest hemorrhag ,1
+auxiliari bishop of the militari servic ,1
+1976 olymp silver medalist ,1
+alcohol liver diseas ,1
+hepat cancer ,1
+nodular melanoma ,1
+acut hepatit ,1
+brain aneurysm ruptur ,1
+heart failur and pneumonia ,1
+dirt bike collis ,1
+and translat ,1
+2008 nfl draft prospect ,1
+degen diseas ,1
+report and historian ,1
+colon and liver cancer ,1
+gastrointestin cancer ,1
+atherosclerosi ,1
+complic from kidney cancer ,1
+minist of domest trade and consum affair ,1
+complic from colic surgeri ,1
+D ,1
+polycyst kidney diseas ,1
+append ,1
+complic from peripher vascular diseas ,1
+spaceplan crash ,1
+coronari arteri diseas ,1
